@@ -44,7 +44,7 @@ MaterialDesignTheme的入门篇
 	colorPrimaryDark：主色--深色，一般可以用于状态栏颜色、底部导航栏
 	colorAccent：（代表各个控件的基调颜色--CheckBox、RadioButton、ProgressBar等等）
 	
-![image](https://github.com/AndLollipop/MaterialDesignTheme/blob/master/images/design.png)
+![image](https://github.com/AndLollipop/MaterialDesignTheme/blob/master/images/style.png)
 
 
 
