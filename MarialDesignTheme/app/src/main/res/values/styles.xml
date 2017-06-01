@@ -2,9 +2,11 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        <!--标题的颜色-->
         <item name="colorPrimary">@color/colorPrimary</item>
+        <!--状态栏的颜色-->
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--个别控件的颜色（代表各个控件的基调颜色CheckBox、RadioButton、ProgressBar等等）-->
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
